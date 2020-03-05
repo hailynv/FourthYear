@@ -6,5 +6,5 @@ For Computer Science students who stumbled upon this: please do not utilize this
 
 List of Projects:
 1. Python Programming Assignment [Processing Storm Data]
-2. TBD
+2. Data Processing with Map/Reduce
 3. TBD
