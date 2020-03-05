@@ -9,6 +9,6 @@ List of Projects:
    p1.py
    storms_three_years.csv
 2. Data Processing with Map/Reduce [Hadoop]
-   TotalRainfall.java
-   TopTenTemp.java
+   TotalRainfall.java 
+   TopTenTemp.java 
 3. TBD
