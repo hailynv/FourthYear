@@ -11,5 +11,15 @@ List of Projects:
 2. Data Processing with Map/Reduce [Hadoop]
    - TotalRainfall.java 
    - TopTenTemp.java 
-3. TBD
+3. HBase Messenger
+   - Login: user[number]@email.com 
+   - [number] must be between 1-500 
+   - Password: password
+   - GenerateMessages.java
+   - ListMessages.java
+   - Login.java
+   - Message.java
+   - Messages.java
+   - SendMessages.java
+
  
