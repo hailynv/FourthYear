@@ -19,4 +19,8 @@ List of Projects:
    - Messages.java
    - SendMessages.java
    - README
+4. Pratice with C
+   - taskOne.c
+   - taskTwo.c
+   - taskThree.c
  
