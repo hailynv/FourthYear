@@ -12,14 +12,11 @@ List of Projects:
    - TotalRainfall.java 
    - TopTenTemp.java 
 3. HBase Messenger
-   - Login: user[number]@email.com 
-   - [number] must be between 1-500 
-   - Password: password
    - GenerateMessages.java
    - ListMessages.java
    - Login.java
    - Message.java
    - Messages.java
    - SendMessages.java
-
+   - README
  
